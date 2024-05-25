@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.DS_Store
 
 ### STS ###
 .apt_generated
@@ -31,5 +32,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### frontend
 /src/frontend/node/
 /src/frontend/node_modules
+/src/frontend/dist
